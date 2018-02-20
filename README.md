@@ -1,3 +1,3 @@
 # model_monitoring
 
-This is Tom's attempt at creating his first Shiny app to help monitor existing models.
+Quick attempt at creating a Shiny app to monitor existing models.
